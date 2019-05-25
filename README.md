@@ -1,6 +1,8 @@
 # vue-device-type
 
-> 获取设备类型
+English | [简体中文](./README.zh-CN.md) 
+
+> get device type
 
 ## Build Setup
 
