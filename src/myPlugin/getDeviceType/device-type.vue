@@ -32,9 +32,6 @@ export default {
     },
     mounted () {
         
-        this.isIphoneX = isIphoneX();
-        document.title = '会员权益详情';
-        hsChangeTitle('会员权益详情');
     },
     methods: {
         
